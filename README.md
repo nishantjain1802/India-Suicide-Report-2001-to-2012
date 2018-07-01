@@ -1,4 +1,4 @@
-# Indias-Suicide-Report-2001---2012
+# India's Suicide Report 2001 to 2012
 The data has taken from the Kaggle - Suicides in India by Rajanand Ilangovan : https://www.kaggle.com/rajanand/suicides-in-india
 
 ## Context
