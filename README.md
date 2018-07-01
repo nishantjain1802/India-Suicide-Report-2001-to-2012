@@ -13,3 +13,6 @@ a) Suicide causes b) Education status c) By means adopted d) Professional profil
 
 ## Acknowledgements
 National Crime Records Bureau (NCRB), Govt of India has shared this dataset under Govt. Open Data License - India. NCRB has also shared the historical data on their website
+
+## Give Suggestions Here
+https://www.kaggle.com/nishantjain1802/india-s-suicide-report-2001-2012/comments
